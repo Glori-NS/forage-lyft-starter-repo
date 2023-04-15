@@ -6,3 +6,4 @@ criteria for servicing: The engine; and The battery
 
 Task 3 - Unit Test for newly refactored system 
 
+Task 4 - adding new class for tire service
